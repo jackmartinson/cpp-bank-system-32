@@ -1,2 +1,4 @@
-# cpp-bank-system-32
+# Cpp Bank System 32
+
 A console banking deposit/withdrawal utility in C++.
+
